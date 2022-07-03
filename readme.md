@@ -1,1 +1,1 @@
-
+you will need glove.840B.300d.txt to run the model
